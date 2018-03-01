@@ -1,0 +1,10 @@
+执行日期：20171102151015
+'主题': 'PHP Fatal Error'
+'错误码': 4006
+'文件': 'F:\\atlas\\errorHandle\\index.php'
+'错误行': 12
+'请求地址': 'http://localhost/errorHandle/'
+'信息': 'exception \'ErrorHandlerException\' with message \'Call to undefined method RegisterErrorHandler::all()\' in F:\\atlas\\errorHandle\\index.php:12
+Stack trace:
+#0 [internal function]: ErrorHandler->handleFatalError()
+#1 {main}'
